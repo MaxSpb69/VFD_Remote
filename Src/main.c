@@ -36,7 +36,7 @@
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
 #define PACKET_SIZE 18
-#define LINK_TIMEOUT 60 //(in 50ms parts)
+#define LINK_TIMEOUT 60 //3 sec (in 50ms parts)
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
@@ -520,4 +520,3 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 
-/************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
