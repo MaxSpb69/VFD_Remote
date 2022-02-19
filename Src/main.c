@@ -3,6 +3,7 @@
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
+  * 				:(c) maxspb69@gmail.com
   ******************************************************************************
   * @attention
   *
@@ -23,8 +24,6 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
-
 #include "VFD_driver.h"
 /* USER CODE END Includes */
 
